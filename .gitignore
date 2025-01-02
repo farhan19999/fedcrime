@@ -1,0 +1,6 @@
+external
+random
+toy_data/user*
+toy_data/server*
+user*.csv
+server*.csv
