@@ -1,6 +1,6 @@
 external
 random
-toy_data/user*
-toy_data/server*
+toy_data/chicago/user*/*
+toy_data/chicago/server*/*
 user*.csv
 server*.csv
